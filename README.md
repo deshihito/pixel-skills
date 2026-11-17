@@ -1,2 +1,10 @@
 # pixel-skills
-This skill is designed to help you refine your ability to have AI draw pixel art.
+
+AIにドット絵を描かせる能力を磨くための、転用可能なスキル集。
+一対一のドット絵訓練で得た様式ルールを、スキル単位で順次書き出していく。
+
+## スキル一覧
+
+| スキル | 内容 |
+|---|---|
+| [pixel-mob-art](pixel-mob-art/SKILL.md) | モブ・生き物・道具のドット絵様式（32×32基準、生物として描く、輪郭・陰影・脚・目のルール、道具アイコンの軸設計と照り、中央揃え、モーション） |
